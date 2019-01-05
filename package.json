@@ -1,0 +1,14 @@
+{
+  "name": "neutron",
+  "version": "0.0.1",
+  "description": "Neutron Discord Botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Wung",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
